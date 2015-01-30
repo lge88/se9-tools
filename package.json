@@ -1,0 +1,10 @@
+{
+  "name": "se9-tools",
+  "version": "1.0.0",
+  "description": "Scripts makes se9 TA's life easier.",
+  "author": "Li Ge",
+  "license": "MIT",
+  "dependencies": {
+    "shelljs": "^0.3.0"
+  }
+}
